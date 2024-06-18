@@ -1,0 +1,6 @@
+["skateboard"] = {
+		label = "Skateboard",
+		weight = 700,
+		stack = false,
+		close = true,
+	},
