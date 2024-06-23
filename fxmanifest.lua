@@ -4,7 +4,7 @@ game 'gta5'
 
 author 'Axl.Mrt'
 
-description 'ASTUDIOS | Development - Activity: Skating'
+description 'Skating'
 
 version '1.0.0'
 
